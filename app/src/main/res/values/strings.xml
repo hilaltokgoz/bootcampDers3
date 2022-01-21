@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">bootcampDers3</string>
+    <string name="hizmet_bedeli">Hizmet Bedeli</string>
+    <string name="bahsis_tutari">Bahşiş Tutarı: %s</string>
+</resources>
